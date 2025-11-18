@@ -1,9 +1,9 @@
 # THU-ACTS Website
 - **项目名称**：THU-ACTS Website Building code
-- **建立时间**：2025-02
+- **建立时间**：2025-11
 - **建立人**：Xuanshen Shu
 - **当前 Hugo 版本**：`hugo v0.152.2-extended`
-- **模块体系**：Hugo Modules + 本地 vendor 依赖
+- **模块体系**：Web构建文件夹 + 模块依赖
 - **注意**：在构建网址时，请勿运行“go”相关指令，否则会重新构建vendor依赖导致版本错误，直接运行hugo指令即可。
 
 本仓库为清华大学先进计算技术与系统实验室（THU-ACTS）官方网站源码。  
