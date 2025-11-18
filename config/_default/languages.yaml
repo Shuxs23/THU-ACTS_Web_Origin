@@ -1,0 +1,25 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://docs.hugoblox.com/reference/language/
+
+# Default language
+zh:
+ languageCode: zh-cn
+ # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+ contentDir: content/zh
+ title: 清华大学先进计算技术与系统实验室
+
+# Uncomment the lines below to configure your website in a second language.
+en:
+  languageCode: en-us
+  contentDir: content/en
+  title: THU-ACTS
+  
+#  title: Chinese website title...
+#  params:
+#    description: Site description in Chinese...
+#  menu:
+#    main:
+#      - name: 传
+#        url: '#about'
+#        weight: 1
